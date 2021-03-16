@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Open-Source (looking Forward to 'Google Summer of Code'!!!)
 - 📫 How to reach me @avinashdoddi2001@gmail.com
 - ✨Website : avinashdoddi.wordpress.com
+- 📫 How to reach me @https://www.linkedin.com/in/avinash-doddi-2001/
 
 <!---
 avinash-doddi/avinash-doddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
