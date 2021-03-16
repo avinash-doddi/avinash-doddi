@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinash-doddi
 - 👀 I’m interested in AI (especially Machine Leaning) and Cloud Computing
 - 🌱 I’m currently studying in Undergraduate First Year (started - 2020)
-- 💞️ I’m looking to collaborate on Python Open-Source (looking Forward to 'Google Summer of Code'!!!)
+- 💞️ I’m looking to collaborate on Python Open-Source (looking Forward to '✨ Google Summer of Code✨ '!!!) and ✨ FossAsia
 - 📫 How to reach me @avinashdoddi2001@gmail.com
 - ✨Website : https://avinashdoddi.wordpress.com/
 - 📫 How to reach me @https://www.linkedin.com/in/avinash-doddi-2001/
