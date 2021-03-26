@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Open-Source (looking Forward to "✨Google Summer of Code✨"!!!) and ✨ FossAsia
 - 📫 How to reach me @avinashdoddi2001@gmail.com
 - ✨Website : https://avinashdoddi.wordpress.com
-- 📫 How to reach me @https://www.linkedin.com/in/avinash-doddi-2001
+- 📫 How to reach me https://www.linkedin.com/in/avinash-doddi-2001
 - ✨ HackerEarth Profile https://www.hackerearth.com/@avinashdoddi2001
 
 <!---
