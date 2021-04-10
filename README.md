@@ -5,7 +5,8 @@
 - 📫 How to reach me @avinashdoddi2001@gmail.com
 - ✨Website : https://avinashdoddi.wordpress.com
 - 📫 How to reach me https://www.linkedin.com/in/avinash-doddi-2001
-- ✨ HackerEarth Profile https://www.hackerearth.com/@avinashdoddi2001
+- ✨ HackerRank Profile : https://www.hackerrank.com/avinashdoddi2001 
+- ✨ HackerEarth Profile : https://www.hackerearth.com/@avinashdoddi2001
 
 <!---
 avinash-doddi/avinash-doddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
