@@ -7,6 +7,9 @@
 - 📫 How to reach me https://www.linkedin.com/in/avinash-doddi-2001
 - ✨ HackerRank Profile : https://www.hackerrank.com/avinashdoddi2001 
 - ✨ HackerEarth Profile : https://www.hackerearth.com/@avinashdoddi2001
+- ✨ Code Chef Profile : https://www.codechef.com/users/avinashdoddi
+- ✨ Leet Code Profile : https://leetcode.com/avinashdoddi2001/
+- ✨ Code Forces Profile : https://codeforces.com/profile/avinashdoddi
 
 <!---
 avinash-doddi/avinash-doddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
