@@ -4,7 +4,8 @@
 - 🌱 I’m currently studying in Undergraduate Second Year (started - 2020)
 - 💞️ I’m looking to collaborate on Python Open-Source (looking Forward to "✨Google Summer of Code✨"!!!) and ✨ FossAsia
 - ✨Website : [view](https://avinashdoddi.wordpress.com)
-- 📫 How to reach me on LinkedIn: [profile](https://www.linkedin.com/in/avinash-doddi-2001)
+- 📫 How to reach me on LinkedIn: [Profile](https://www.linkedin.com/in/avinash-doddi-2001)
+<br/>
 -- Coding Profiles::
 - ✨ [HackerRank Profile](https://www.hackerrank.com/avinashdoddi2001)
 - ✨ [HackerEarth Profile](https://www.hackerearth.com/@avinashdoddi2001)
