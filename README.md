@@ -19,7 +19,7 @@
 <br/>
 
 **Stats**  
-<a href="https://github.com/avinash-doddi/github-readme-stats" style = "margin = 10px">
+<a href="https://github.com/avinash-doddi/github-readme-stats" style = "margin = 5px; display = flex">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=codeSTACKr" />
 </a>
 
