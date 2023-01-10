@@ -20,4 +20,4 @@
 
 **Languages and Tools:**  
 
-![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=github_dark)
+![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=codeSTACKr)
