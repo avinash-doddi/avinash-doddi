@@ -13,7 +13,6 @@
 - ✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)
 - ✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)
 - ✨ [CodeForces Profile](https://codeforces.com/profile/avinashdoddi)
-- 📧 Contact me: [Email](avinashdoddi2001@gmail.com)
 
 
 <br/>
@@ -21,4 +20,4 @@
 
 **Languages and Tools:**  
 
-![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=angolia)
+![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=github_dark)
