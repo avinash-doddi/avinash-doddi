@@ -19,13 +19,12 @@
 <br/>
 
 **Stats**  
+<a href="https://github.com/avinash-doddi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/avinash-doddi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-doddi&layout=compact" />
+</a>
 
-![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=codeSTACKr)
-
-<br />
-
-**Programming Languages I work with..**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-doddi&layout=compact)](https://github.com/avinash-doddi/github-readme-stats)
 
 
