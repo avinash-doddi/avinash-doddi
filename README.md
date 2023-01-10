@@ -21,3 +21,6 @@
 **Languages and Tools:**  
 
 ![Avinash Doddi's github stats](https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-doddi)](https://github.com/anuraghazra/github-readme-stats)
+
+
