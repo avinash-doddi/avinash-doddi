@@ -7,12 +7,14 @@
 - 📫 How to reach me on LinkedIn: [Profile](https://www.linkedin.com/in/avinash-doddi-2001)
 <br/>
 -- Coding Profiles::
-- ✨ [HackerRank Profile](https://www.hackerrank.com/avinashdoddi2001)
-- ✨ [HackerEarth Profile](https://www.hackerearth.com/@avinashdoddi2001)
-- ✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)
-- ✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)
-- ✨ [CodeForces Profile](https://codeforces.com/profile/avinashdoddi)
-- 📧 Contact me: <a href="avinashdoddi2001@gmail.com">📧</a>
+<ul>
+  <li>✨ [HackerRank Profile](https://www.hackerrank.com/avinashdoddi2001)</li>
+<li>✨ [HackerEarth Profile](https://www.hackerearth.com/@avinashdoddi2001)</li>
+<li>✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)</li>
+<li>✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)</li>
+<li>✨ [CodeForces Profile](https://codeforces.com/profile/avinashdoddi)</li>
+<li>📧 Contact me: <a href="avinashdoddi2001@gmail.com">📧</a></li>
+ </ul>
 
 <br/>
 <br/>
