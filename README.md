@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/avinash-doddi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-doddi&layout=compact" width = "300px" max-widht = "300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-doddi&layout=compact" width = "1000px" max-widht = "3000px"/>
 </a>
 
 
