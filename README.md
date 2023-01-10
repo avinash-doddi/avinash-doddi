@@ -13,7 +13,7 @@
 <li>✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)</li>
 <li>✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)</li>
 <li>✨ [CodeForces Profile](https://codeforces.com/profile/avinashdoddi)</li>
-<li>📧 Contact me: <a href="avinashdoddi2001@gmail.com">📧</a></li>
+<li>📧 Contact me: [Email](avinashdoddi2001@gmail.com)</li>
  </ul>
 
 <br/>
