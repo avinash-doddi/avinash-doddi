@@ -8,7 +8,7 @@
 <br/>
 
 - Coding Profiles::
-- ✨ [HackerRank Profile](https://www.hackerrank.com/avinashdoddi2001)
+- ✨ [HackerRank Profile](https://www.hackerrank.com/20l31a0559)
 - ✨ [HackerEarth Profile](https://www.hackerearth.com/@avinashdoddi2001)
 - ✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)
 - ✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)
