@@ -19,6 +19,7 @@
 <br/>
 
 **Stats**  
+<br/>
 <a href="https://github.com/avinash-doddi/github-readme-stats" style = "margin = 3px; display = grid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-doddi&show_icons=true&theme=chartreuse-dark" />
 </a>
