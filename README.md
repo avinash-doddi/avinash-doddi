@@ -13,6 +13,7 @@
 - ✨ [CodeChef Profile](https://www.codechef.com/users/avinashdoddi)
 - ✨ [LeetCode Profile](https://leetcode.com/avinashdoddi2001)
 - ✨ [CodeForces Profile](https://codeforces.com/profile/avinashdoddi)
+- ✨ [Github Gists](https://gist.github.com/avinash-doddi)
 
 
 <br/>
