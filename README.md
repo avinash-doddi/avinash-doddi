@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/b9a2ee3d-57c0-4b1a-b2d3-1666b51eefa6" />
+
 <h1 align="center"><b>Hi 👋, I'm Avinash Doddi</b><img align="center" width="20%" src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png"></h1>
 
                                                                 
